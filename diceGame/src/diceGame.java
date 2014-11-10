@@ -65,3 +65,5 @@ public class diceGame
           
         } // end main    
 }  // end class dice
+
+//Ok
